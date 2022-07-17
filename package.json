@@ -16,12 +16,7 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/catcamargo/bootstrap5-julio5/issues"
-  },
-  {
-  "scripts": {
-    "build": "[my-framework] build --output public"
-  }
-},  
+  },   
   "homepage": "https://github.com/catcamargo/bootstrap5-julio5#readme",
   "devDependencies": {
     "node-sass": "^7.0.1",
